@@ -1,0 +1,13 @@
+# Intellij / Goland
+.idea/
+
+# Temp files
+ut-payload.json
+ut-response.json
+last-response.json
+
+# Config files
+# *.env
+
+vendor/
+
